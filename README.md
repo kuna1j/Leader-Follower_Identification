@@ -41,7 +41,8 @@ lLv = length of the leading vehicle (width, in our case)
 
 ## Installation
 1. Clone this repository to your local machine.     
-   git clone https://github.com/kuna1j/leader-follower-identification.git cd leader-follower_identification
+   git clone https://github.com/kuna1j/leader-follower-identification    
+   git cd leader-follower_identification
 
 ## Usage
 1. Prepare your video data or use the video file provided in the directory.
