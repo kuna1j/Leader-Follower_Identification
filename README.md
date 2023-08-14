@@ -49,10 +49,10 @@ lLv = length of the leading vehicle (width, in our case)
 
 2. Run the main script to perform vehicle detection, tracking, and leader-follower analysis.
 
-3. The script will generate an output CSV file containing leader-follower pairs and relevant metrics.
+3. The script will generate an output CSV file containing leader-follower pairs and ids of vehicles near the leader vehicle.
 
 ## Results
-The results of the analysis will be saved in a CSV file that contains information about the identified leader-follower pairs among vehicles. Each record in the CSV file includes the frame number of the detected pairs, vehicle id, coordinates of key points, and the leader/follower designation. This information can be used for further analysis and insights into traffic dynamics.
+The results of the analysis will be saved in a CSV file that contains information about the identified leader-follower pairs among vehicles. Each record in the CSV file includes the frame number of the detected pairs, leader vehicle id, follower vehicle id, and the detected vehicle's positions near the leader vehicle. This information can be used for further analysis and insights into traffic dynamics.
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements or additional features, please feel free to submit a pull request.
