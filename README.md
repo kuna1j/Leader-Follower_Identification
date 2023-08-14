@@ -14,7 +14,6 @@ The Vehicle Leader-Follower Detection and Analysis project is aimed at developin
 - **Object Tracking**: Implemented BYTESORT tracking algorithm in the YOLOv8 model to follow the movements of detected vehicles across frames.
 - **Leader-Follower Pair Identification**: Analyzed vehicle positions and movements to identify leader-follower pairs based on defined criteria.
 - **Data Visualization**: Visualize the detected leader-follower pairs and their relative positions over time.
-- **Metrics Calculation**: Compute metrics such as time gaps and distances between leader-follower pairs for further analysis.
 
 ## Criteria for Leader-Follower Pair
 The criteria for a pair to be leader-follower is:
